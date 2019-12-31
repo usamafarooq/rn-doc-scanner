@@ -1,0 +1,26 @@
+{
+  "name": "rn-document-scanner",
+  "version": "1.0.0",
+  "description": "React Native Module to auto detect documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamafarooq/rn-document-scanner.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "android",
+    "scanner",
+    "document"
+  ],
+  "author": "Usama Farooq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usamafarooq/rn-document-scanner/issues"
+  },
+  "homepage": "https://github.com/usamafarooq/rn-document-scanner#readme"
+}
